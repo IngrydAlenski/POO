@@ -7,12 +7,12 @@ using POO;
 
 namespace POO
 {
-    class Livro
+    class Aluno
     {
-        // Caracteristicas
-        
+        public string Nome; 
+        public int    Idade; 
+        public double NotaFinal;
+
     }
 }
-
-
 
